@@ -1,0 +1,12 @@
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.log
+*.pem
+*.key
+*.zip
+*.tar
+*.gz
+*.DS_Store
+*.idea
+*.vscode
